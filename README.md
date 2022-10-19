@@ -1,1 +1,2 @@
-Creating a simple vpn
+Creating a simple VPN
+
